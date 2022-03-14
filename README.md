@@ -7,8 +7,8 @@
 - 💾 Coding-newbie 
 
 ### Beginner-level skills
-- .html .css .js 
-- VScode notepad+ node git gitHub bash 
+- .html | .css | .js 
+- VScode | notepad+ | node | git | gitHub | bash 
 
 ### Funfact:
 I have a B.Eng Landscape-Engineering and am very interestet in every theme about    
