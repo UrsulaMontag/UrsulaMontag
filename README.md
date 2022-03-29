@@ -2,7 +2,7 @@
 
 ### Some personal information
 - 🖥 I love coding and am now on the path to change my career
-- 🚀 Currently I am learning fullstack web development at neuefische munich.
+- 🚀 Currently I am learning fullstack web development at neuefische-bootcamp munich
 - 🐙 Beginner mindset(eager to learn)
 - 💾 Coding-newbie 
 
