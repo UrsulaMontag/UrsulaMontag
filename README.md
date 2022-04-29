@@ -11,7 +11,7 @@
 - VScode | notepad+ | node | git | gitHub | bash 
 
 ### Funfact:
-I have a B.Eng Landscape-Engineering and am very interestet in every theme about    
+I have a B.Eng Landscape-Engineering and am very interested in every theme about    
 health, environmental protection, nature and composting toilets 🌳🧻
 
 #### contact me: [Email](montagu666@gmail.com) 
