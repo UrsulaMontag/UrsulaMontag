@@ -2,12 +2,13 @@
 
 ### Some personal information
 - 🖥 I love coding and am now on the path to change my career
-- 🚀 Learned web development at neuefische-bootcamp munich this summer
-- 🐙 Beginner mindset(eager to learn)
-- 💾 Coding-newbie 
+- 🚀 Learned web development at neuefische-bootcamp munich in summer 2022
+    and in connection take my first steps as a junior software developer at JW Froehlich Maschinenfabrik GmbH 
+- 🐙 Intermediate experience (eager to learn)
+- 💾 Coding-enthusiast
 
 ### Skills
-- react | next | node.js | TypeScript | JavaScript | html | css 
+- Angular | react | next.js | node.js | TypeScript | JavaScript | html | css 
 - MongoDB | Mongoose | RestAPI-Design | NoSQL | Jest
 - VScode | notepad+ | git | gitHub | shell
 
