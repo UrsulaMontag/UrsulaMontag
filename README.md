@@ -1,23 +1,22 @@
 # Hi 👋🏽 ! I am Ursula!
 
 ### Some personal information
-- 🖥 I love coding and am now on the path to change my career
-- 🚀 Learned web development at neuefische-bootcamp munich in summer 2022
-    and in connection take my first steps as a junior software developer at JW Froehlich Maschinenfabrik GmbH 
-- 🐙 Intermediate experience (eager to learn)
-- 💾 Coding-enthusiast
+- 🖥 I am a passionate Fullstack Developer with a background in web and software development.
+- 🚀 After completing two intensive bootcamps in Web Development (March 2022) and Java Fullstack Development (August 2024), I began my journey as a Teaching Assistant at neuefische, supporting students in learning modern fullstack technologies.
+- 🏭 My first professional steps as a Junior Developer were at JW Froehlich Maschinenfabrik GmbH, where I worked on enhancing and optimizing user interfaces for industrial applications.
+- 🐙 Always eager to learn and explore new technologies.
+- 💾 Coding-enthusiast with a strong focus on scalable and efficient solutions.
 
 ### Skills
-- Angular | react | next.js | node.js | TypeScript | JavaScript | html | css 
-- MongoDB | Mongoose | RestAPI-Design | NoSQL | Jest
-- VScode | notepad+ | git | gitHub | shell
+- Java | SpringBoot | React | Angular | TypeScript | JavaScript | HTML | CSS
+- MongoDB | RESTful APIs | Docker | CI/CD | Git | GitHub | Node.js
+- Azure | Agile methodologies | Test-driven development (TDD)
 
 ### Special Features
-- Figma | AdobeXp | Gimp | Storybook | CAD | GIS
-- Agile-Working | Teamplayer | Problemsolver | Autodidakt
+- Figma | Adobe XD | Storybook | Docker | CI/CD Pipelines | DevOps Practices
+- Strong team player with excellent problem-solving skills and a passion for agile collaboration and continuous learning.
 
-### Funfact:
-I have a B.Eng Landscape-Engineering and am very interested in every theme about    
-health, environmental protection, nature and composting toilets 🌳🧻
+### Fun Fact:
+I have a B.Eng in Landscape Engineering, and my passion for environmental topics remains strong – from health and environmental protection to composting toilets 🌳🧻!
 
 #### contact me: [Email](montagu666@gmail.com) 
